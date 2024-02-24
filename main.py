@@ -56,4 +56,4 @@ async def pilih_sampah(ctx):
     elif msg.content in sampah_nonorganik:
         await ctx.send("Masukkan ke sampah non-organik")
 
-bot.run("MTIwMDY2OTgzMjk2MjY0NjAyNg.GZ7jwZ.9X8sinfkyVcoOb-OHzPDwU7y-MIL4JDhP97tHQ")
+bot.run("TOKEN")
